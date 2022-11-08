@@ -4,4 +4,5 @@
 `Ctrl + Shift + Esc` Task Manager <br>
 `Ctrl + Alt + Del` shutdown <br>
 `Win + X + U + U` shutdown <br>
+`Ctrl + Win + O` shutdown <br>
 
