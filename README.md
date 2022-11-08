@@ -1,7 +1,7 @@
 # windows-shortcut-keys
 
-`Ctrl + Shift + Win + B` windows graphics driver reset
-`Ctrl + Shift + Esc` Task Manager
-`Ctrl + Alt + Del` shutdown
-`Win + X + U + U` shutdown
+`Ctrl + Shift + Win + B` windows graphics driver reset <br>
+`Ctrl + Shift + Esc` Task Manager <br>
+`Ctrl + Alt + Del` shutdown <br>
+`Win + X + U + U` shutdown <br>
 
