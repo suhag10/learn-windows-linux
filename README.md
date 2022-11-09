@@ -1,4 +1,4 @@
-# windows-shortcut-keys # windows-11
+# windows-shortcut-keys   windows-11
 
 `win + R` ( Opens the Run command ) <br>
 `win + S` ( Opens Search ) <br>
