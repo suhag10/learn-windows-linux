@@ -11,10 +11,10 @@
 `win + V` ( Emojis / Gifs ) <br>
 `win + Shift + S` ( Screenshort ) <br>
 `win + Alt + R` ( Screen Recor ) <br>
+`Win + X + U + U` ( Shutdown ) <br>
 
 `Ctrl + Shift + Win + B` ( Windows graphics driver reset ) <br>
 `Ctrl + Shift + Esc` ( Task Manager ) <br>
 `Ctrl + Alt + Del` ( Shutdown ) <br>
-`Win + X + U + U` ( Shutdown ) <br>
 `Ctrl + Win + O` ( On-Screen Keyboard ) <br>
 
