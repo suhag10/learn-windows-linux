@@ -1,17 +1,18 @@
 # windows-shortcut-keys   windows-11
 
-`win + R` ( Opens the Run command ) <br>
-`win + S` ( Opens Search ) <br>
-`win + E` ( Opens File Explorer ) <br>
-`win + Tab` ( witches to Task View, selected window will return with focus ) <br>
+`Win + R` ( Opens the Run command ) <br>
+`Win + S` ( Opens Search ) <br>
+`Win + E` ( Opens File Explorer ) <br>
+`Win + Tab` ( witches to Task View, selected window will return with focus ) <br>
 
-`win + H` (Speak to Type) <br>
+`Win + H` (Speak to Type) <br>
 `Win + D` ( Hides or unhide the desktop ) <br>
-`win + M` ( Minimizes all windows ) <br>
-`win + V` ( Emojis / Gifs ) <br>
-`win + Shift + S` ( Screenshort ) <br>
-`win + Alt + R` ( Screen Recor ) <br>
+`Win + M` ( Minimizes all windows ) <br>
+`Win + V` ( Emojis / Gifs ) <br>
+`Win + Shift + S` ( Screenshort ) <br>
+`Win + Alt + R` ( Screen Recor ) <br>
 `Win + X + U + U` ( Shutdown ) <br>
+`Alt + F4` ( Restart Windows ) <br>
 
 `Ctrl + Shift + Win + B` ( Windows graphics driver reset ) <br>
 `Ctrl + Shift + Esc` ( Task Manager ) <br>
