@@ -10,7 +10,7 @@
 `Win + M` ( Minimizes all windows ) <br>
 `Win + V` ( Emojis / Gifs ) <br>
 `Win + Shift + S` ( Screenshort ) <br>
-`Win + Alt + R` ( Screen Recor ) <br>
+`Win + Alt + R` ( Screen Recording ) <br>
 `Win + X + U + U` ( Shutdown ) <br>
 `Alt + F4` ( Restart Windows ) <br>
 
