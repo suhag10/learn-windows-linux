@@ -19,3 +19,6 @@
 `Ctrl + Alt + Del` ( Shutdown ) <br>
 `Ctrl + Win + O` ( On-Screen Keyboard ) <br>
 
+#Run
+`mrt` ( Microsoft Windows Malicious Software Removal Tool ) <br>
+
