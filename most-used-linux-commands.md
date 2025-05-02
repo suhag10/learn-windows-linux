@@ -78,6 +78,7 @@
 | chown             | Change file owner                                        | `chown user:group file.txt`                  |
 | mount             | Mount a filesystem                                       | `mount /dev/sdb1 /mnt`                       |
 | umount            | Unmount a filesystem                                     | `umount /mnt`                                |
+| lsblk             | This command lists block devices                         | `lsblk`                                      |
 
 #### Networking Commands
 | Command           | Description                                              | Example                                         |
@@ -113,6 +114,10 @@
 | iostat            | Report CPU and I/O statistics                            | `iostat`                          |
 | lsof              | List open files by processes                             | `lsof`                            |
 | dmesg             | Print kernel ring buffer messages                        | `dmesg`                           |
+| lscpu             | This command lists CPU information                       | `lscpu`                           |
+| lshw              | This command lists hardware information in detail        | `sudo lshw`                       |
+| lspci             | This command lists PCI devices                           | `lspci`                           |
+| lsusb             | This command lists USB devices                           | `lsusb`                           |
 
 #### User and Permission Management Commands
 | Command           | Description                                              | Example                                       |
