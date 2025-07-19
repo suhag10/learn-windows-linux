@@ -44,7 +44,7 @@ You can install a package manually
 `$ dpkg --list`<br>
 `$ sudo dpkg -i packages-name.deb`<br>
 `$ sudo dpkg -i google-chrome.deb`<br>
-`$ sudo dpkg -i local-{*}-linux.deb`<br>
+`$ sudo dpkg -i localwp-linux.deb`<br>
 
 The command `sudo apt -f install` is used in Ubuntu or other Debian-based Linux distributions to fix broken dependencies.
 
@@ -55,7 +55,7 @@ The command `sudo apt -f install` is used in Ubuntu or other Debian-based Linux 
 The package was uninstalled manually
 
 `$ sudo dpkg -r packages-name.deb`<br>
-`$ sudo dpkg -r local-{*}-linux.deb`<br>
+`$ sudo dpkg -r localwp-linux.deb`<br>
 `$ sudo apt autoremove - (to remove those unnecessary packages.)`<br>
 
 <!-- `$ dpkg --get-selections`<br> -->
@@ -79,7 +79,7 @@ The APT package index is a database of available packages from the repositories 
 | ----------------------------------------- | ----------------------------- |
 | `sudo apt install php libapache2-mod-php` | [PHP Docs][id/link-php-net-docs]|
 | `php -S localhost:8080`                   | **Start** php server command  |
-| `php -S domain.com:80`                    | -                             |
+| `php -S your-domain.local:80`             | -                             |
 | `Ctrl + C`                                | **Stop** php server command   |
 
 **Install optional packages**
@@ -106,11 +106,11 @@ How To Install and Use Composer on Ubuntu<br>
 
 $ composer init
 
-$ git config --global user.name {your-name}
-$ git config --global user.email {your-email}
-$ git config --global package.name {your-package-name}
-$ git config --global package.type {your-package-type}
-$ git config --global license.name {your-package-license}
+$ git config --global user.name "yourName"
+$ git config --global user.email "yourEmail"
+$ git config --global package.name "yourPackageName"
+$ git config --global package.type "yourPackageType"
+$ git config --global license.name "yourPackageLicense"
 ```
 
 <br>
@@ -137,7 +137,7 @@ Your PHP project creates directories in `/var/www/html/`.
 <br>
 
 ### Create a new user in MySQL
-`$ mysql -u root -p`<br>
+`$ mysql -u root -p` or `sudo mysql`<br>
 `$ > CREATE USER 'your-username'@'%' IDENTIFIED BY 'your-password';`<br>
 `$ > GRANT ALL PRIVILEGES ON *.* TO 'your-username'@'%' WITH GRANT OPTION;`<br>
 `$ > FLUSH PRIVILEGES;`<br>
@@ -210,7 +210,7 @@ Examples:
 | `zip -r <archive_name.zip> files_or_directories/`  | -                        |
 | `zip -r <archive_name.zip> files_or_directories/*` | -                        |
 | `zip archive_name.zip file1.txt file2.txt`         | Archive multiple files   |
-| `unzip archive_name.zip`                           | Unzip zip file           |
+| `unzip archive_name.zip`                           | Unzip file               |
 
 <br>
 
